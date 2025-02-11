@@ -1,16 +1,15 @@
-# Documentación Proyecto
+# Documentación del Proyecto
 
-This repository contains the documentation for the **Documentación Proyecto**.
+Este repositorio contiene la documentación del **Proyecto Documentación**.
 
-## How to view the documentation
+## Cómo ver la documentación
 
-To view the documentation locally, you can run the following command:
+Para ver la documentación localmente, puedes ejecutar el siguiente comando:
 
+Esto iniciará un servidor local al que puedes acceder en [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
-This will start a local server that you can access at [http://127.0.0.1:8000](http://127.0.0.1:8000).
+## Documentación en vivo
 
-## Live Documentation
-
-You can view the live documentation here:
+Puedes ver la documentación en vivo aquí:
 
 [https://Abdelmoumane.github.io/Documentacion_Proyecto/](https://Abdelmoumane.github.io/Documentacion_Proyecto/)
